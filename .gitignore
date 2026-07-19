@@ -1,4 +1,6 @@
 node_modules/
 src/
+website_source/
 .vscode/
 index.html
+graphify-out/
